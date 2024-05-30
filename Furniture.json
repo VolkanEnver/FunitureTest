@@ -2,7 +2,7 @@
   "SpesificationSheetInfo":[
     {
       "FurnitureId": "1",
-      "1": "MovableFurniture",
+      "FurnitureType": "MovableFurniture",
       "FurnitureName": "MERIDIANI-TERESINA KUOIO LOUNGE ARMCHAIR",
       "Area": "Standart Rooms"
       }
