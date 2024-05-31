@@ -2,9 +2,12 @@
   "SpesificationSheetInfo":[
     {
       "FurnitureId": "1",
-      "FurnitureType": "MovableFurniture",
-      "FurnitureName": "MERIDIANI-TERESINA KUOIO LOUNGE ARMCHAIR",
-      "Area": "Standart Rooms"
+      "PROJECT": "RIXOS HOTEL KAEC",
+      "AREA": "MOCK UP ROOM",
+      "CODE": "RSA-MUR-MF-04",
+      "FURNITURE": "ARMCHAIR",
+      "FURNITURETYPE": "MovableFurniture",
+      "FURNITURENAME": "MERIDIANI-TERESINA KUOIO LOUNGE ARMCHAIR",
       "TEXTURE": "https://arketipodesign-my.sharepoint.com/:i:/g/personal/vsoydan_arketipodesign_com_tr/EXiHiMj9EMNDgiL5aXauq-IBDYvz9V46ERwacWJEb5eNzQ?e=el9OdF",
       }
   ]
